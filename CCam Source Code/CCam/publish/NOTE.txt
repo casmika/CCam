@@ -1,0 +1,28 @@
+=====================================================================
+======================= CCam: Capture Camera ========================
+=====================================================================
+
+Petunjuk Penggunaan!
+- Pilih Camera dan resolusinya,
+- Klik Start untuk memulai live video
+- Klik Stop untuk menghentikan live video
+- Klik Capture untuk mengcapture gambar
+- Klik Path untuk menentukan Output Folder
+- Klik Save untuk menyimpan hasil capture
+- Nama file dapat dapat diisi di kolom Filename
+
+Penggunaan Serial
+- Pilih Port dan Baudrate
+- Klik Connect untuk memulai komunikasi serial
+- Klik Disconnect untuk menghentikan komunikasi serial
+
+Format:
+[CI:Nama File]\n
+atau
+[CI=Nama File]\n
+atau
+CI:Nama File\n
+atau
+CI=Nama File\n
+
+dengan '\n' adalah endline
